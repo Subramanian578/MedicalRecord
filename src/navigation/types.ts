@@ -1,3 +1,3 @@
 export type RootStackParamList = {
-    SignIn: undefined;
+    PlayGround: undefined;
 };
